@@ -18,9 +18,6 @@
 ## Connect with Me
 - [Telegram](https://t.me/dipankarkumarroy)
 
-## GitHub Stats
-![Dipankar Kumar Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipankarkumarroy&show_icons=true&theme=dark)
-
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipankarkumarroy&layout=compact&theme=dark)
 
